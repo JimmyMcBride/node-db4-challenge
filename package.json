@@ -1,0 +1,21 @@
+{
+  "name": "node-db4-challenge",
+  "version": "1.0.0",
+  "description": "Project for Node DB 4 Module",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Lambda School",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.20.0",
+    "knex": "^0.19.1",
+    "nodemon": "^1.19.1",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
